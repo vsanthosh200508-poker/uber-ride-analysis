@@ -1,0 +1,301 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
+01/01/2024 23:54,01/02/2024 00:35,Business,Winter Park,Miami,3.1,Moving
+01/03/2024 23:38,01/04/2024 00:09,Business,Daytona Beach,New York,1.1,Customer Visit
+01/09/2024 12:29,01/09/2024 13:58,Business,Winter Park,Savannah,11.9,Meeting
+01/10/2024 15:01,01/10/2024 15:28,Business,Charlotte,Raleigh,3.2,Between Offices
+01/13/2024 22:58,01/14/2024 00:17,Business,Cary,Lake Wales,2.2,Errand/Supplies
+01/17/2024 05:52,01/17/2024 06:36,Business,Savannah,Latta,7.9,Meeting
+01/18/2024 02:55,01/18/2024 03:00,Business,Tampa,Palm Beach,9.4,Errand/Supplies
+01/18/2024 05:42,01/18/2024 06:42,Business,Jacksonville,Daytona Beach,13.6,Commute
+01/18/2024 16:14,01/18/2024 16:25,Business,Tampa,Savannah,2.2,Errand/Supplies
+01/20/2024 23:30,01/21/2024 00:11,Business,Jamaica,Orlando,7.8,Between Offices
+01/21/2024 08:23,01/21/2024 08:44,Business,Jamaica,Daytona Beach,2.6,Commute
+01/22/2024 19:04,01/22/2024 19:46,Business,New York,Palm Beach,5.3,Airport/Travel
+01/23/2024 04:49,01/23/2024 05:00,Business,Atlanta,Wilmington,6.0,Commute
+01/24/2024 14:56,01/24/2024 16:02,Business,Jacksonville,Jamaica,1.6,Airport/Travel
+01/25/2024 16:24,01/25/2024 17:29,Business,Berkeley Heights,Orlando,3.4,Between Offices
+01/27/2024 01:43,01/27/2024 01:59,Business,Raleigh,Jamaica,4.9,Meal/Entertain
+01/27/2024 12:28,01/27/2024 13:33,Business,Charlotte,Palm Beach,1.0,Temporary Site
+01/27/2024 15:34,01/27/2024 17:02,Business,Gainesville,Kissimmee,10.7,Meeting
+01/27/2024 18:43,01/27/2024 19:52,Business,Wilmington,Raleigh,2.8,Meeting
+01/28/2024 17:35,01/28/2024 17:47,Business,Orlando,Daytona Beach,0.6,Temporary Site
+01/29/2024 10:50,01/29/2024 12:03,Business,New York,Durham,11.1,Temporary Site
+01/29/2024 18:29,01/29/2024 19:47,Business,New York,Elizabeth,8.3,Meeting
+01/30/2024 03:39,01/30/2024 04:04,Business,Miami,Orlando,2.8,Charity ($)
+01/31/2024 02:11,01/31/2024 02:52,Business,Lake Wales,Atlanta,2.6,Between Offices
+01/31/2024 13:02,01/31/2024 13:57,Personal,Gainesville,Latta,10.9,Moving
+01/31/2024 16:02,01/31/2024 17:25,Personal,Morrisville,Orlando,6.8,Commute
+01/31/2024 23:42,02/01/2024 00:16,Personal,Palm Beach,Morrisville,21.5,
+02/01/2024 16:23,02/01/2024 17:02,Business,Morrisville,Tampa,10.0,Airport/Travel
+02/01/2024 20:08,02/01/2024 21:06,Business,Berkeley Heights,Lake Wales,0.8,Moving
+02/05/2024 02:23,02/05/2024 03:23,Personal,Apex,Elizabeth,0.5,Errand/Supplies
+02/05/2024 07:20,02/05/2024 07:31,Personal,Tampa,Elizabeth,2.6,Commute
+02/06/2024 04:46,02/06/2024 05:19,Personal,Apex,Jamaica,2.2,Errand/Supplies
+02/06/2024 05:16,02/06/2024 05:51,Business,Morrisville,Kissimmee,1.7,Charity ($)
+02/08/2024 14:03,02/08/2024 14:55,Business,West Palm Beach,Raleigh,19.0,Between Offices
+02/10/2024 05:29,02/10/2024 05:51,Business,Sarasota,Melbourne,1.4,Meal/Entertain
+02/12/2024 00:40,02/12/2024 01:29,Business,Jamaica,Charlotte,2.6,Between Offices
+02/12/2024 08:27,02/12/2024 09:29,Business,West Palm Beach,Daytona Beach,11.9,Moving
+02/12/2024 16:35,02/12/2024 18:04,Personal,Fort Pierce,Durham,20.4,Commute
+02/13/2024 10:40,02/13/2024 11:31,Personal,Gainesville,West Palm Beach,1.6,Moving
+02/13/2024 10:44,02/13/2024 10:58,Personal,Melbourne,West Palm Beach,0.5,Commute
+02/14/2024 10:24,02/14/2024 11:52,Business,Sarasota,Savannah,1.1,Commute
+02/14/2024 11:31,02/14/2024 11:56,Personal,Winter Park,Fort Pierce,3.7,Errand/Supplies
+02/14/2024 19:03,02/14/2024 19:41,Business,West Palm Beach,New York,2.9,Temporary Site
+02/15/2024 00:28,02/15/2024 01:24,Personal,Jacksonville,Savannah,13.1,Errand/Supplies
+02/19/2024 00:42,02/19/2024 01:51,Personal,Wilmington,Jamaica,1.0,Moving
+02/22/2024 16:28,02/22/2024 17:22,Business,Raleigh,Orlando,0.6,Commute
+02/24/2024 04:35,02/24/2024 04:53,Business,Cary,Orlando,18.6,Commute
+02/25/2024 13:57,02/25/2024 14:31,Business,Apex,Palm Beach,2.0,Temporary Site
+02/25/2024 23:37,02/26/2024 00:34,Personal,Cary,Berkeley Heights,14.2,Commute
+02/26/2024 20:57,02/26/2024 21:34,Business,New York,Charlotte,4.9,Moving
+02/27/2024 05:26,02/27/2024 05:34,Business,Orlando,Savannah,1.2,Charity ($)
+02/27/2024 14:34,02/27/2024 14:47,Business,Tampa,Winter Park,17.0,Moving
+02/29/2024 08:14,02/29/2024 08:46,Business,Lake Wales,Winter Park,16.4,Airport/Travel
+03/01/2024 08:52,03/01/2024 09:31,Business,Miami,Lake Wales,10.2,Customer Visit
+03/03/2024 00:07,03/03/2024 01:06,Business,Kissimmee,Charlotte,1.5,Errand/Supplies
+03/03/2024 18:03,03/03/2024 19:04,Business,Melbourne,Fort Pierce,1.8,Airport/Travel
+03/07/2024 17:58,03/07/2024 19:22,Business,Cary,Apex,0.7,Between Offices
+03/10/2024 09:09,03/10/2024 10:18,Personal,Chapel Hill,Tampa,5.9,Moving
+03/13/2024 04:00,03/13/2024 04:13,Business,Durham,Jamaica,1.1,Customer Visit
+03/14/2024 20:52,03/14/2024 22:05,Business,Elizabeth,Boca Raton,2.7,Airport/Travel
+03/16/2024 07:18,03/16/2024 08:07,Business,Gainesville,Jamaica,1.3,Errand/Supplies
+03/18/2024 00:34,03/18/2024 00:48,Business,Jamaica,Sarasota,1.3,Customer Visit
+03/20/2024 01:39,03/20/2024 03:05,Personal,Palm Beach,Atlanta,1.0,
+03/22/2024 14:03,03/22/2024 14:39,Business,Daytona Beach,Melbourne,8.3,Between Offices
+03/23/2024 08:58,03/23/2024 10:25,Business,West Palm Beach,Chapel Hill,3.3,Meeting
+03/23/2024 09:06,03/23/2024 09:56,Business,Palm Beach,Atlanta,2.6,Between Offices
+03/24/2024 12:09,03/24/2024 13:09,Business,Raleigh,Lake Wales,6.2,Customer Visit
+03/24/2024 13:11,03/24/2024 14:04,Business,Elizabeth,Durham,10.1,Between Offices
+03/25/2024 23:44,03/26/2024 00:11,Business,Apex,West Palm Beach,4.8,Commute
+03/26/2024 23:17,03/27/2024 00:44,Business,Atlanta,Miami,1.8,Charity ($)
+03/27/2024 01:25,03/27/2024 02:21,Business,Jacksonville,Winter Park,4.7,Temporary Site
+03/27/2024 09:13,03/27/2024 09:43,Business,Latta,Boca Raton,6.4,Charity ($)
+03/28/2024 14:52,03/28/2024 15:47,Personal,Cary,Chapel Hill,10.0,Moving
+03/30/2024 08:47,03/30/2024 09:56,Business,Cary,Raleigh,4.3,Between Offices
+03/31/2024 11:42,03/31/2024 12:29,Business,Fort Pierce,Boca Raton,3.9,Moving
+03/31/2024 19:22,03/31/2024 20:27,Business,Lake Wales,Tampa,4.6,Commute
+04/01/2024 04:13,04/01/2024 05:38,Business,Gainesville,Daytona Beach,7.0,Temporary Site
+04/03/2024 13:05,04/03/2024 14:22,Personal,Sarasota,Morrisville,0.9,Errand/Supplies
+04/03/2024 17:36,04/03/2024 18:33,Business,Miami,Morrisville,0.7,Customer Visit
+04/04/2024 08:53,04/04/2024 09:58,Business,Jamaica,New York,0.7,Customer Visit
+04/05/2024 01:48,04/05/2024 02:13,Business,Atlanta,Tampa,1.7,Temporary Site
+04/07/2024 15:15,04/07/2024 15:49,Business,Lake Wales,Jamaica,14.8,Customer Visit
+04/09/2024 12:21,04/09/2024 13:13,Business,Sarasota,Miami,4.8,Moving
+04/09/2024 19:08,04/09/2024 20:14,Personal,Sarasota,Savannah,13.9,Moving
+04/12/2024 18:40,04/12/2024 20:09,Business,Elizabeth,Winter Park,11.3,Customer Visit
+04/13/2024 16:24,04/13/2024 17:51,Business,Melbourne,Daytona Beach,1.9,Errand/Supplies
+04/15/2024 23:56,04/16/2024 00:56,Business,Lake Wales,Miami,13.9,Airport/Travel
+04/16/2024 03:03,04/16/2024 03:47,Personal,Fort Pierce,Kissimmee,15.2,Moving
+04/16/2024 04:30,04/16/2024 05:28,Business,Gainesville,Morrisville,14.2,Charity ($)
+04/17/2024 03:24,04/17/2024 03:53,Personal,Cary,Miami,15.3,
+04/17/2024 16:43,04/17/2024 17:54,Business,Palm Beach,Morrisville,1.0,Customer Visit
+04/18/2024 04:26,04/18/2024 05:44,Business,Wilmington,Melbourne,10.4,Airport/Travel
+04/18/2024 04:46,04/18/2024 04:59,Personal,Latta,Jacksonville,0.9,Moving
+04/20/2024 05:04,04/20/2024 06:14,Business,Lake Wales,Cary,3.8,Moving
+04/23/2024 20:37,04/23/2024 22:02,Business,Winter Park,Kissimmee,7.9,Between Offices
+04/25/2024 05:31,04/25/2024 06:03,Personal,Sarasota,Lake Wales,14.0,Errand/Supplies
+04/26/2024 04:19,04/26/2024 05:45,Personal,Apex,Savannah,2.9,Moving
+04/26/2024 15:12,04/26/2024 16:21,Business,Lake Wales,Raleigh,8.0,Airport/Travel
+04/27/2024 07:58,04/27/2024 08:28,Personal,Jamaica,Palm Beach,8.7,
+04/27/2024 08:36,04/27/2024 10:04,Business,West Palm Beach,Cary,8.2,Errand/Supplies
+04/28/2024 04:53,04/28/2024 06:01,Business,Savannah,Melbourne,2.5,Customer Visit
+05/01/2024 00:40,05/01/2024 01:26,Business,Orlando,Cary,6.8,Moving
+05/01/2024 08:55,05/01/2024 10:25,Business,Jacksonville,Morrisville,1.4,Errand/Supplies
+05/02/2024 05:00,05/02/2024 05:32,Business,Savannah,Tampa,3.9,Airport/Travel
+05/06/2024 21:14,05/06/2024 22:12,Business,Charlotte,Melbourne,22.2,Errand/Supplies
+05/09/2024 10:39,05/09/2024 11:25,Business,Lake Wales,Apex,3.0,Errand/Supplies
+05/09/2024 12:31,05/09/2024 13:07,Personal,Cary,Wilmington,0.6,Commute
+05/10/2024 17:17,05/10/2024 17:35,Business,Latta,Savannah,0.9,Meal/Entertain
+05/11/2024 13:03,05/11/2024 13:22,Business,New York,Charlotte,6.5,Meal/Entertain
+05/13/2024 13:53,05/13/2024 15:15,Business,Sarasota,Apex,12.6,Meeting
+05/16/2024 19:52,05/16/2024 20:25,Business,Palm Beach,Miami,1.1,Moving
+05/20/2024 03:39,05/20/2024 04:06,Business,New York,Boca Raton,26.0,Commute
+05/23/2024 07:31,05/23/2024 08:36,Business,Raleigh,Daytona Beach,0.8,Between Offices
+05/23/2024 21:35,05/23/2024 22:07,Business,Wilmington,Latta,17.4,Customer Visit
+05/27/2024 04:26,05/27/2024 05:14,Business,Elizabeth,Berkeley Heights,4.6,Between Offices
+05/27/2024 05:53,05/27/2024 06:20,Business,Durham,Winter Park,5.4,Temporary Site
+05/28/2024 01:19,05/28/2024 02:13,Personal,Morrisville,West Palm Beach,6.7,Commute
+05/28/2024 02:34,05/28/2024 03:52,Business,Miami,Boca Raton,6.8,Temporary Site
+05/31/2024 14:59,05/31/2024 15:37,Personal,Boca Raton,Apex,9.5,
+06/02/2024 05:42,06/02/2024 05:48,Business,Apex,Latta,4.7,Meal/Entertain
+06/02/2024 16:59,06/02/2024 17:20,Business,Apex,Lake Wales,3.5,Temporary Site
+06/03/2024 22:52,06/04/2024 00:22,Business,Savannah,Berkeley Heights,2.7,Charity ($)
+06/04/2024 02:40,06/04/2024 03:31,Business,Berkeley Heights,Morrisville,1.4,Errand/Supplies
+06/04/2024 19:07,06/04/2024 19:46,Business,Savannah,Miami,5.0,Moving
+06/08/2024 12:42,06/08/2024 12:52,Business,Miami,Chapel Hill,9.6,Charity ($)
+06/12/2024 20:35,06/12/2024 20:44,Business,Gainesville,Melbourne,8.4,Customer Visit
+06/13/2024 07:55,06/13/2024 08:27,Personal,Miami,Boca Raton,10.4,Commute
+06/15/2024 23:05,06/15/2024 23:24,Business,Morrisville,Melbourne,3.0,Moving
+06/19/2024 04:10,06/19/2024 05:24,Business,Charlotte,Tampa,2.5,Moving
+06/20/2024 16:09,06/20/2024 17:07,Business,Jamaica,Durham,13.7,Commute
+06/23/2024 10:55,06/23/2024 12:15,Business,Daytona Beach,Chapel Hill,1.5,Meeting
+06/24/2024 01:46,06/24/2024 02:22,Business,Orlando,Miami,2.2,Moving
+06/24/2024 08:09,06/24/2024 08:29,Business,Lake Wales,Fort Pierce,1.1,Meal/Entertain
+06/25/2024 04:56,06/25/2024 06:05,Business,Charlotte,Miami,5.6,Meal/Entertain
+06/25/2024 05:00,06/25/2024 05:05,Personal,Berkeley Heights,Charlotte,4.8,Moving
+06/25/2024 14:06,06/25/2024 14:52,Business,Palm Beach,Charlotte,1.2,Airport/Travel
+06/27/2024 04:48,06/27/2024 05:11,Business,Sarasota,Melbourne,2.6,Customer Visit
+06/28/2024 07:20,06/28/2024 07:48,Business,Lake Wales,Kissimmee,2.8,Airport/Travel
+06/28/2024 16:00,06/28/2024 16:36,Personal,Apex,Chapel Hill,4.9,Errand/Supplies
+06/29/2024 12:56,06/29/2024 13:56,Business,Palm Beach,Latta,21.9,Moving
+06/29/2024 22:43,06/29/2024 23:41,Business,Durham,Atlanta,10.4,Airport/Travel
+06/30/2024 18:32,06/30/2024 19:44,Business,Wilmington,Fort Pierce,4.2,Commute
+07/01/2024 07:05,07/01/2024 08:11,Business,West Palm Beach,Boca Raton,9.1,Errand/Supplies
+07/01/2024 11:54,07/01/2024 12:36,Business,Miami,Boca Raton,1.7,Temporary Site
+07/03/2024 08:17,07/03/2024 09:19,Business,Chapel Hill,Tampa,2.1,Customer Visit
+07/03/2024 13:57,07/03/2024 15:12,Business,Wilmington,Orlando,20.7,Commute
+07/07/2024 05:50,07/07/2024 06:10,Business,Charlotte,Gainesville,5.4,Moving
+07/07/2024 12:23,07/07/2024 12:55,Business,Winter Park,Morrisville,4.6,Moving
+07/09/2024 03:46,07/09/2024 04:10,Business,Latta,Lake Wales,8.3,Charity ($)
+07/09/2024 09:38,07/09/2024 10:39,Business,Lake Wales,Tampa,5.4,Meal/Entertain
+07/10/2024 18:30,07/10/2024 19:31,Business,Savannah,Raleigh,6.7,Meeting
+07/16/2024 01:25,07/16/2024 01:57,Business,Gainesville,Savannah,3.2,Charity ($)
+07/16/2024 03:45,07/16/2024 05:07,Business,Daytona Beach,Elizabeth,0.8,Between Offices
+07/16/2024 20:00,07/16/2024 20:56,Business,Lake Wales,Fort Pierce,2.7,Commute
+07/17/2024 14:48,07/17/2024 15:07,Business,Kissimmee,Boca Raton,6.6,Moving
+07/21/2024 15:01,07/21/2024 16:29,Business,Daytona Beach,Morrisville,3.2,Commute
+07/21/2024 22:43,07/21/2024 23:36,Business,Boca Raton,Savannah,6.5,Charity ($)
+07/24/2024 10:05,07/24/2024 10:11,Business,Boca Raton,Miami,5.2,Commute
+07/25/2024 06:27,07/25/2024 06:52,Business,Cary,Savannah,15.8,Commute
+07/25/2024 06:49,07/25/2024 07:46,Business,Elizabeth,Kissimmee,7.6,Errand/Supplies
+07/27/2024 06:00,07/27/2024 06:20,Personal,Cary,Winter Park,6.0,
+07/28/2024 07:37,07/28/2024 08:15,Business,Savannah,Winter Park,6.2,Airport/Travel
+07/28/2024 11:22,07/28/2024 12:34,Personal,Morrisville,Fort Pierce,6.1,Moving
+07/28/2024 18:35,07/28/2024 18:50,Business,Durham,Sarasota,1.6,Customer Visit
+07/29/2024 17:20,07/29/2024 18:24,Business,Berkeley Heights,Latta,2.3,Customer Visit
+07/30/2024 11:41,07/30/2024 12:14,Business,Chapel Hill,New York,7.3,Temporary Site
+07/31/2024 23:03,07/31/2024 23:49,Business,Berkeley Heights,Boca Raton,7.6,Moving
+08/01/2024 07:05,08/01/2024 07:26,Personal,Savannah,Miami,10.7,
+08/01/2024 15:16,08/01/2024 15:25,Business,Palm Beach,Latta,16.0,Between Offices
+08/01/2024 17:59,08/01/2024 18:46,Business,Palm Beach,Lake Wales,2.5,Charity ($)
+08/02/2024 02:09,08/02/2024 02:32,Business,Berkeley Heights,Daytona Beach,14.3,Moving
+08/02/2024 08:14,08/02/2024 09:28,Business,Wilmington,Kissimmee,14.1,Between Offices
+08/04/2024 11:23,08/04/2024 11:59,Personal,Apex,New York,14.8,Errand/Supplies
+08/04/2024 17:37,08/04/2024 18:35,Business,Gainesville,Charlotte,6.5,Moving
+08/06/2024 02:21,08/06/2024 03:37,Business,Raleigh,Latta,8.6,Meal/Entertain
+08/06/2024 22:23,08/06/2024 23:42,Business,Tampa,Jacksonville,2.0,Moving
+08/13/2024 05:50,08/13/2024 07:12,Business,Apex,Morrisville,4.6,Charity ($)
+08/16/2024 11:26,08/16/2024 12:41,Business,Fort Pierce,Jamaica,7.4,Customer Visit
+08/16/2024 13:27,08/16/2024 14:26,Business,West Palm Beach,Tampa,5.1,Moving
+08/19/2024 12:34,08/19/2024 13:14,Business,Kissimmee,Cary,2.5,Commute
+08/19/2024 16:26,08/19/2024 17:26,Business,Raleigh,Tampa,8.3,Between Offices
+08/19/2024 18:29,08/19/2024 19:10,Personal,Boca Raton,Gainesville,4.5,Commute
+08/21/2024 19:13,08/21/2024 19:21,Business,Raleigh,Gainesville,6.0,Commute
+08/27/2024 02:17,08/27/2024 03:14,Personal,West Palm Beach,Sarasota,1.7,Moving
+08/29/2024 15:51,08/29/2024 17:04,Business,Winter Park,Orlando,10.4,Airport/Travel
+08/29/2024 19:22,08/29/2024 20:30,Business,Kissimmee,Boca Raton,7.0,Meeting
+08/30/2024 12:57,08/30/2024 13:43,Personal,New York,Morrisville,6.4,Moving
+09/03/2024 12:37,09/03/2024 13:44,Personal,Latta,Apex,1.4,
+09/03/2024 21:00,09/03/2024 21:51,Business,Kissimmee,Miami,11.2,Between Offices
+09/05/2024 07:53,09/05/2024 08:12,Business,Gainesville,Palm Beach,3.3,Temporary Site
+09/05/2024 14:33,09/05/2024 15:31,Business,Fort Pierce,Latta,5.9,Airport/Travel
+09/07/2024 20:15,09/07/2024 21:22,Business,Cary,Lake Wales,6.1,Meeting
+09/08/2024 13:05,09/08/2024 13:29,Business,Berkeley Heights,Sarasota,1.1,Temporary Site
+09/10/2024 00:30,09/10/2024 01:31,Personal,Winter Park,Raleigh,17.1,Commute
+09/12/2024 22:09,09/12/2024 23:09,Business,Apex,Savannah,14.9,Airport/Travel
+09/14/2024 11:36,09/14/2024 11:44,Business,New York,Savannah,14.1,Airport/Travel
+09/15/2024 23:24,09/15/2024 23:30,Personal,Savannah,Boca Raton,8.0,
+09/16/2024 02:07,09/16/2024 02:51,Business,Orlando,West Palm Beach,3.3,Airport/Travel
+09/16/2024 23:48,09/17/2024 00:07,Business,Apex,Sarasota,0.5,Customer Visit
+09/18/2024 07:12,09/18/2024 07:50,Business,Jamaica,Miami,5.7,Between Offices
+09/18/2024 20:54,09/18/2024 22:12,Business,Daytona Beach,Jacksonville,7.5,Meeting
+09/19/2024 09:18,09/19/2024 09:50,Business,Jacksonville,Cary,4.9,Errand/Supplies
+09/20/2024 03:47,09/20/2024 05:01,Business,Latta,Orlando,2.1,Charity ($)
+09/20/2024 18:03,09/20/2024 18:59,Business,Atlanta,New York,5.2,Charity ($)
+09/21/2024 04:42,09/21/2024 05:01,Business,Daytona Beach,Palm Beach,9.7,Commute
+09/23/2024 08:06,09/23/2024 08:17,Personal,Chapel Hill,Atlanta,6.9,
+09/24/2024 01:06,09/24/2024 01:11,Personal,Daytona Beach,Raleigh,2.8,Errand/Supplies
+09/24/2024 06:08,09/24/2024 07:24,Business,Chapel Hill,Daytona Beach,1.7,Between Offices
+09/24/2024 10:56,09/24/2024 11:39,Business,Berkeley Heights,Winter Park,2.0,Temporary Site
+09/26/2024 09:30,09/26/2024 10:38,Business,Chapel Hill,Daytona Beach,1.2,Airport/Travel
+09/26/2024 12:33,09/26/2024 13:16,Personal,Lake Wales,Chapel Hill,1.6,Errand/Supplies
+09/27/2024 10:29,09/27/2024 11:23,Business,New York,Jacksonville,6.6,Customer Visit
+09/27/2024 12:42,09/27/2024 13:58,Business,New York,Gainesville,17.3,Charity ($)
+09/27/2024 18:27,09/27/2024 19:09,Business,Raleigh,Miami,9.1,Customer Visit
+09/27/2024 21:09,09/27/2024 21:44,Business,Wilmington,Daytona Beach,13.6,Customer Visit
+09/30/2024 00:19,09/30/2024 01:22,Business,Atlanta,Palm Beach,0.7,Customer Visit
+09/30/2024 15:05,09/30/2024 15:18,Business,Daytona Beach,Boca Raton,0.6,Customer Visit
+10/01/2024 21:33,10/01/2024 22:58,Business,Savannah,West Palm Beach,4.0,Meal/Entertain
+10/02/2024 15:39,10/02/2024 16:04,Business,Melbourne,Raleigh,5.0,Meeting
+10/06/2024 02:55,10/06/2024 04:02,Personal,Orlando,Cary,1.1,Errand/Supplies
+10/09/2024 19:26,10/09/2024 20:14,Business,Gainesville,Kissimmee,7.0,Meal/Entertain
+10/10/2024 03:28,10/10/2024 03:39,Business,West Palm Beach,Raleigh,2.3,Meal/Entertain
+10/12/2024 06:21,10/12/2024 07:07,Business,Cary,Palm Beach,1.6,Meeting
+10/12/2024 07:17,10/12/2024 08:31,Business,Morrisville,Gainesville,1.7,Customer Visit
+10/13/2024 20:17,10/13/2024 21:23,Business,Daytona Beach,Berkeley Heights,1.4,Moving
+10/14/2024 10:07,10/14/2024 10:24,Personal,Tampa,Kissimmee,1.1,Commute
+10/14/2024 18:19,10/14/2024 19:45,Personal,Sarasota,Berkeley Heights,4.7,Errand/Supplies
+10/15/2024 03:28,10/15/2024 04:58,Business,Cary,Miami,4.3,Airport/Travel
+10/15/2024 06:26,10/15/2024 06:50,Personal,Chapel Hill,Morrisville,6.7,Errand/Supplies
+10/15/2024 12:09,10/15/2024 13:22,Personal,Kissimmee,Gainesville,2.1,Commute
+10/16/2024 04:04,10/16/2024 04:56,Business,West Palm Beach,Orlando,13.1,Commute
+10/17/2024 02:40,10/17/2024 03:40,Business,Melbourne,Sarasota,0.7,Airport/Travel
+10/17/2024 21:24,10/17/2024 22:38,Business,Gainesville,Jacksonville,3.8,Between Offices
+10/19/2024 08:31,10/19/2024 09:38,Business,Winter Park,Boca Raton,7.2,Meeting
+10/19/2024 14:53,10/19/2024 15:47,Personal,Melbourne,Daytona Beach,10.3,
+10/20/2024 07:26,10/20/2024 08:27,Business,Raleigh,Wilmington,3.7,Commute
+10/20/2024 10:29,10/20/2024 11:58,Business,Tampa,Jamaica,3.3,Errand/Supplies
+10/21/2024 19:48,10/21/2024 21:16,Business,Apex,Charlotte,9.3,Charity ($)
+10/23/2024 18:29,10/23/2024 19:06,Business,Fort Pierce,Berkeley Heights,5.7,Meal/Entertain
+10/24/2024 03:47,10/24/2024 05:02,Business,Chapel Hill,Savannah,16.3,Customer Visit
+10/24/2024 07:51,10/24/2024 09:09,Business,Latta,Boca Raton,12.8,Meeting
+10/25/2024 00:59,10/25/2024 02:23,Business,Fort Pierce,Tampa,10.5,Commute
+10/25/2024 10:50,10/25/2024 11:04,Business,Kissimmee,Sarasota,0.7,Moving
+10/25/2024 11:51,10/25/2024 13:18,Business,Raleigh,Elizabeth,1.8,Temporary Site
+10/25/2024 23:00,10/26/2024 00:19,Personal,Wilmington,Atlanta,6.5,Errand/Supplies
+10/27/2024 00:02,10/27/2024 00:45,Personal,Charlotte,Winter Park,3.0,Errand/Supplies
+10/28/2024 08:50,10/28/2024 09:02,Business,Charlotte,Lake Wales,2.7,Meeting
+10/29/2024 13:54,10/29/2024 14:20,Business,Berkeley Heights,Melbourne,3.2,Meal/Entertain
+10/30/2024 12:20,10/30/2024 12:58,Business,Tampa,Cary,6.1,Airport/Travel
+10/30/2024 22:41,10/30/2024 22:51,Business,Jacksonville,Latta,17.7,Airport/Travel
+10/31/2024 04:12,10/31/2024 05:41,Business,Tampa,Fort Pierce,2.8,Charity ($)
+11/01/2024 18:51,11/01/2024 19:09,Business,Wilmington,Morrisville,12.4,Meeting
+11/01/2024 23:05,11/02/2024 00:30,Business,Raleigh,Jamaica,5.9,Customer Visit
+11/02/2024 19:11,11/02/2024 19:46,Business,Elizabeth,Boca Raton,12.0,Meeting
+11/03/2024 14:42,11/03/2024 15:41,Business,Durham,Tampa,3.2,Airport/Travel
+11/07/2024 05:44,11/07/2024 06:48,Business,Orlando,Lake Wales,2.2,Commute
+11/07/2024 13:22,11/07/2024 14:52,Personal,Palm Beach,Elizabeth,1.2,Commute
+11/11/2024 00:23,11/11/2024 01:40,Personal,Gainesville,Jamaica,3.3,Errand/Supplies
+11/12/2024 21:53,11/12/2024 22:06,Personal,New York,Miami,18.3,Commute
+11/13/2024 20:15,11/13/2024 20:50,Business,Charlotte,Kissimmee,0.7,Customer Visit
+11/14/2024 15:57,11/14/2024 16:31,Business,Durham,Lake Wales,2.9,Customer Visit
+11/15/2024 00:12,11/15/2024 00:51,Business,Morrisville,Melbourne,3.4,Errand/Supplies
+11/15/2024 08:40,11/15/2024 09:47,Business,Tampa,Atlanta,4.9,Between Offices
+11/16/2024 02:28,11/16/2024 03:45,Personal,Jamaica,Morrisville,4.8,
+11/17/2024 08:06,11/17/2024 09:09,Business,Lake Wales,Apex,28.2,Meal/Entertain
+11/17/2024 20:06,11/17/2024 21:09,Business,Elizabeth,Daytona Beach,7.8,Airport/Travel
+11/19/2024 02:05,11/19/2024 03:03,Business,Morrisville,Fort Pierce,2.1,Meal/Entertain
+11/19/2024 18:52,11/19/2024 18:57,Business,Raleigh,Chapel Hill,9.3,Customer Visit
+11/20/2024 02:59,11/20/2024 03:51,Business,Raleigh,New York,10.6,Errand/Supplies
+11/21/2024 22:10,11/21/2024 22:17,Business,New York,Berkeley Heights,12.3,Customer Visit
+11/23/2024 23:09,11/23/2024 23:27,Business,Durham,Melbourne,0.7,Moving
+11/26/2024 18:32,11/26/2024 19:08,Business,Palm Beach,Atlanta,20.2,Meal/Entertain
+11/26/2024 19:01,11/26/2024 19:48,Personal,Lake Wales,Jacksonville,0.6,
+11/27/2024 19:42,11/27/2024 20:40,Business,Palm Beach,Wilmington,3.0,Commute
+11/29/2024 08:55,11/29/2024 09:18,Personal,Charlotte,Elizabeth,20.9,Moving
+11/29/2024 20:22,11/29/2024 21:09,Business,Palm Beach,Miami,1.3,Customer Visit
+11/30/2024 12:21,11/30/2024 13:36,Business,Chapel Hill,Fort Pierce,5.2,Commute
+11/30/2024 15:50,11/30/2024 16:56,Business,Durham,Berkeley Heights,2.1,Meal/Entertain
+11/30/2024 16:13,11/30/2024 16:23,Business,Atlanta,Cary,5.2,Charity ($)
+11/30/2024 19:26,11/30/2024 20:11,Business,Durham,Sarasota,2.5,Moving
+12/01/2024 18:42,12/01/2024 19:07,Personal,Savannah,Raleigh,1.0,Commute
+12/01/2024 19:07,12/01/2024 20:03,Personal,Durham,Fort Pierce,21.5,Commute
+12/03/2024 19:42,12/03/2024 20:05,Business,Cary,Elizabeth,4.8,Airport/Travel
+12/05/2024 06:36,12/05/2024 08:06,Personal,Wilmington,Sarasota,7.7,
+12/05/2024 12:02,12/05/2024 13:03,Business,Fort Pierce,Daytona Beach,1.6,Charity ($)
+12/06/2024 09:12,12/06/2024 10:03,Business,Chapel Hill,Elizabeth,3.5,Temporary Site
+12/07/2024 11:54,12/07/2024 12:16,Personal,Daytona Beach,Chapel Hill,6.5,Moving
+12/08/2024 02:14,12/08/2024 02:27,Personal,Boca Raton,Elizabeth,3.1,Moving
+12/09/2024 01:20,12/09/2024 01:31,Business,West Palm Beach,Miami,7.8,Moving
+12/09/2024 08:43,12/09/2024 09:40,Personal,Atlanta,Gainesville,9.4,Commute
+12/11/2024 18:04,12/11/2024 19:21,Business,West Palm Beach,Tampa,1.8,Moving
+12/16/2024 15:57,12/16/2024 16:38,Business,Orlando,Chapel Hill,5.5,Customer Visit
+12/16/2024 20:19,12/16/2024 21:44,Business,Charlotte,Apex,2.3,Temporary Site
+12/18/2024 04:29,12/18/2024 05:44,Business,Sarasota,Savannah,9.0,Errand/Supplies
+12/18/2024 16:39,12/18/2024 16:50,Business,Chapel Hill,Palm Beach,26.5,Airport/Travel
+12/23/2024 14:12,12/23/2024 14:59,Business,Sarasota,Atlanta,1.3,Meal/Entertain
+12/26/2024 17:51,12/26/2024 18:35,Business,Durham,Sarasota,2.0,Airport/Travel
+12/26/2024 19:04,12/26/2024 19:18,Business,Winter Park,Jamaica,2.4,Moving
+12/26/2024 19:41,12/26/2024 21:10,Business,Fort Pierce,Kissimmee,12.6,Temporary Site
+12/29/2024 00:05,12/29/2024 00:43,Business,Gainesville,Boca Raton,2.9,Between Offices
